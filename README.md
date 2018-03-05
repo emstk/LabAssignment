@@ -1,7 +1,7 @@
 # LabAssignment
 Automatically assign students to laboratories based on their choices.
 
-## Requirment
+## Requirement
 - Anaconda
 - PyOt5
 - networkx
