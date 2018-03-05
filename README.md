@@ -1,21 +1,16 @@
 # LabAssignment
 Automatically assign students to laboratories based on their choices.
 
-## Development environment
-
-Anaconda2-4.3.0
+## Requirment
+- Anaconda
+- PyOt5
+- networkx
 
 ## Getting Started
 
 ```
 $ git clone https://github.com/emstk/LabAssignment.git
 ```
-
-You have to install packages bellow.
-
-- Anaconda
-- PyOt5
-- networkx
 
 ## Test
 
