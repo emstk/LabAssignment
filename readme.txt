@@ -1,40 +1,42 @@
-ž ŠT—v ž
-	Šw¶‚Ì‘æ1A‘æ2A‘æ3Šó–]‚ÆŠeŒ¤‹†Žº‚Ìl”§ŒÀ‚©‚çŒ¤‹†Žº”z‘®‚ð’ñˆÄ‚µ‚Ü‚·B
+â—‡ æ¦‚è¦ â—‡
+	å­¦ç”Ÿã®ç¬¬1ã€ç¬¬2ã€ç¬¬3å¸Œæœ›ã¨å„ç ”ç©¶å®¤ã®äººæ•°åˆ¶é™ã‹ã‚‰ç ”ç©¶å®¤é…å±žã‚’ææ¡ˆã—ã¾ã™ã€‚
 
-ž “®ìðŒ ž
-	AnacondaƒpƒbƒP[ƒW + PyOt5 + networkx
-	Anaconda2-4.3.0‚Å‚Í“®ìŠm”FÏ‚Ý‚Å‚·B
+â—‡ å‹•ä½œæ¡ä»¶ â—‡
+	Anacondaãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ + PyOt5 + networkx
+	Anaconda2-4.3.0ã§ã¯å‹•ä½œç¢ºèªæ¸ˆã¿ã§ã™ã€‚
 
 
-ž ƒtƒ@ƒCƒ‹\¬ ž
+â—‡ ãƒ•ã‚¡ã‚¤ãƒ«æ§‹æˆ â—‡
 	[assign.ipynb]
-		”z‘®‚ð’ñˆÄ‚·‚écsvƒtƒ@ƒCƒ‹‚ðì‚éƒvƒƒOƒ‰ƒ€
+		é…å±žã‚’ææ¡ˆã™ã‚‹csvãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œã‚‹ãƒ—ãƒ­ã‚°ãƒ©ãƒ 
 
 	[wishable.csv]
-		Šw¶‚Ì”z‘®Šó–]‚Ì—á‚Å‚·B‚±‚ê‚Æ“¯‚¶Œ`Ž®‚Ì‚à‚Ì‚ð—pˆÓ‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+		å­¦ç”Ÿã®é…å±žå¸Œæœ›ã®ä¾‹ã§ã™ã€‚ã“ã‚Œã¨åŒã˜å½¢å¼ã®ã‚‚ã®ã‚’ç”¨æ„ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
 	[lab_capacity.csv]
-		Œ¤‹†Žº‚Ìl”‚ÌãŒÀ‚Ì—á‚Å‚·B‚±‚ê‚Æ“¯‚¶Œ`Ž®‚Ì‚à‚Ì‚ð—pˆÓ‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
+		ç ”ç©¶å®¤ã®äººæ•°ã®ä¸Šé™ã®ä¾‹ã§ã™ã€‚ã“ã‚Œã¨åŒã˜å½¢å¼ã®ã‚‚ã®ã‚’ç”¨æ„ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
 
 	[result.csv]
-		ã‹L2‚Â‚Ìƒtƒ@ƒCƒ‹‚ðŽg‚Á‚ÄŒˆ’è‚µ‚½Œ¤‹†Žº”z‘®‚Å‚·B'1'‚Æ‚ ‚é‚Ì‚ª”z‘®‚·‚éŒ¤‹†Žº‚Å‚·B
+		ä¸Šè¨˜2ã¤ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½¿ã£ã¦æ±ºå®šã—ãŸç ”ç©¶å®¤é…å±žã§ã™ã€‚'1'ã¨ã‚ã‚‹ã®ãŒé…å±žã™ã‚‹ç ”ç©¶å®¤ã§ã™ã€‚
 	
 	[readme.txt]
-		‚±‚Ìƒtƒ@ƒCƒ‹‚Å‚·B
+		ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ã§ã™ã€‚
 
-ž ƒCƒ“ƒXƒg[ƒ‹ ž
-	“Á‚É‚È‚µ
+â—‡ ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ« â—‡
+	Anaconda
+	PyOt5
+	networkx
 
-ž ƒAƒ“ƒCƒ“ƒXƒg[ƒ‹ ž
-	ƒfƒBƒŒƒNƒgƒŠ‚²‚Æíœ‚µ‚Ä‚­‚¾‚³‚¢B
+â—‡ ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ« â—‡
+	ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã”ã¨å‰Šé™¤ã—ã¦ãã ã•ã„ã€‚
 
-ž ‚Â‚©‚¢‚©‚½ ž
-	wishtable.csv‚Æ“¯‚¶Œ`Ž®‚ÅŠw¶‚ÌŠó–]‚ðŠÜ‚ñ‚¾ƒtƒ@ƒCƒ‹‚ðì¬‚µ‚Ü‚·B
-	lab_capacity.csv‚Æ“¯‚¶Œ`Ž®‚ÅŒ¤‹†Žº‚Ìl”‚ÌãŒÀ‚ðŠÜ‚ñ‚¾ƒtƒ@ƒCƒ‹‚ðì¬‚µ‚Ü‚·B
-	ƒtƒ@ƒCƒ‹–¼‚Í‰pŒê‚É‚µ‚Ä‚­‚¾‚³‚¢B
-	Jupiter notebook‚Åassign.ipynb‚ðŠJ‚«A‘S‚Ä‚ÌƒZƒ‹‚ðŽÀs‚µ‚Ü‚·B
-	oŒ»‚·‚éƒEƒBƒ“ƒhƒE‚Ì'Student's wish'‚ÉŠg’£Žq‚ðœ‚¢‚½”z‘®Šó–]•\‚Ìƒtƒ@ƒCƒ‹–¼‚ð“ü—Í‚µ‚Ü‚·B
-	'Lab capacity'‚ÉŠg’£Žq‚ðœ‚¢‚½l”§ŒÀ‚Ìƒtƒ@ƒCƒ‹–¼‚ð“ü—Í‚µ‚Ü‚·B
-	ŽÀs‚·‚é‚Æ'result.csv'‚Æ‚¢‚¤ƒtƒ@ƒCƒ‹‚ªì‚ç‚ê‚Ü‚·B
-	Šw¶‚²‚Æ‚É”z‘®æ‚ÌŒ¤‹†Žº‚ð'1'A‚»‚êˆÈŠO‚ð'0'‚Å•\‚µ‚Ä‚¢‚Ü‚·B
+â—‡ ã¤ã‹ã„ã‹ãŸ â—‡
+	wishtable.csvã¨åŒã˜å½¢å¼ã§å­¦ç”Ÿã®å¸Œæœ›ã‚’å«ã‚“ã ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã—ã¾ã™ã€‚
+	lab_capacity.csvã¨åŒã˜å½¢å¼ã§ç ”ç©¶å®¤ã®äººæ•°ã®ä¸Šé™ã‚’å«ã‚“ã ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã—ã¾ã™ã€‚
+	ãƒ•ã‚¡ã‚¤ãƒ«åã¯è‹±èªžã«ã—ã¦ãã ã•ã„ã€‚
+	Jupiter notebookã§assign.ipynbã‚’é–‹ãã€å…¨ã¦ã®ã‚»ãƒ«ã‚’å®Ÿè¡Œã—ã¾ã™ã€‚
+	å‡ºç¾ã™ã‚‹ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã®'Student's wish'ã«æ‹¡å¼µå­ã‚’é™¤ã„ãŸé…å±žå¸Œæœ›è¡¨ã®ãƒ•ã‚¡ã‚¤ãƒ«åã‚’å…¥åŠ›ã—ã¾ã™ã€‚
+	'Lab capacity'ã«æ‹¡å¼µå­ã‚’é™¤ã„ãŸäººæ•°åˆ¶é™ã®ãƒ•ã‚¡ã‚¤ãƒ«åã‚’å…¥åŠ›ã—ã¾ã™ã€‚
+	å®Ÿè¡Œã™ã‚‹ã¨'result.csv'ã¨ã„ã†ãƒ•ã‚¡ã‚¤ãƒ«ãŒä½œã‚‰ã‚Œã¾ã™ã€‚
+	å­¦ç”Ÿã”ã¨ã«é…å±žå…ˆã®ç ”ç©¶å®¤ã‚’'1'ã€ãã‚Œä»¥å¤–ã‚’'0'ã§è¡¨ã—ã¦ã„ã¾ã™ã€‚
 
