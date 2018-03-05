@@ -12,12 +12,15 @@ $ git clone https://github.com/emstk/LabAssignment.git
 ```
 
 You have to install packages bellow.
-*Anaconda
-*PyOt5
-*networkx
+
+- Anaconda
+- PyOt5
+- networkx
 
 ## Test
 
 Open jupyter notebook and run this program.
+
 Type 'wishtable' to 'Student's wish', and 'lab_capacity' to 'Lab capacity' in the popup window.
+
 Then the progmam makes a result file.
